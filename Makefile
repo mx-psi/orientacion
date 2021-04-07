@@ -6,3 +6,4 @@ serve: index.html
 
 index.html: charla.md
 	pandoc -s --mathjax -t revealjs --slide-level 2 $^ -o $@
+	git apply index.patch
