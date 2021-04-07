@@ -1,7 +1,7 @@
 ---
 title: Jornada de profesionales
 subtitle: IES Marmaria
-author: Pablo Baeyens <span style="text-transform:lowercase">(<a href="mailto:pbaeyens31+orientacion@gmail.com">pbaeyens31@gmail.com</a>)</span>
+author: Pablo Baeyens
 lang: es
 theme: moon
 ---
@@ -22,7 +22,7 @@ Soy Pablo Baeyens, estudié Informática y Matemáticas (doble grado) en la UGR.
 
 Actualmente trabajo como ingeniero informático en Datadog desarrollando software libre.
 
-Podéis contactarme a través de [pbaeyens31@gmail.com](mailto:pbaeyens31@gmail.com).
+Podéis contactarme a través de [pbaeyens31+orientacion@gmail.com](mailto:pbaeyens31+orientacion@gmail.com).
 
 :::notes
 - Estudié el doble grado entre 2014 y 2019.
@@ -112,7 +112,8 @@ Un sólo centro
 
 ## Salidas laborales
 
-- Investigación y docencia universitaria.
+- Investigación en la Universidad.
+- Docencia (primaria, secundaria, FP, Universidad...)
 - Ciencia de datos y estadística aplicada.
 - Ingeniero informático, de sistemas...
 - Desarrollo web o de aplicaciones.
@@ -122,10 +123,10 @@ Un sólo centro
 
 - [Aprende a estudiar mejor](https://mx-psi.github.io/studying).
 - [Guía para primero](https://libreim.github.io/blog/2015/09/10/primero).
-- [`grados.ugr.es`]()
-- [`deiit.ugr.es/BDExamenes/search.html`]()
-- [`github.com/libreim/apuntesDGIIM`]()
-- [`80000hours.org/career-decision/article`]()
-- [`mx-psi.github.io/contact`]() o [`pbaeyens31@gmail.com`]()
+- [`grados.ugr.es`](https://grados.ugr.es)
+- [`deiit.ugr.es/BDExamenes/search.html`](https://deiit.ugr.es/BDExamenes/search.html)
+- [`github.com/libreim/apuntesDGIIM`](https://github.com/libreim/apuntesDGIIM)
+- [`80000hours.org/career-decision/article`](https://80000hours.org/career-decision/article)
+- [`mx-psi.github.io/contact`](https://mx-psi.github.io/contact) o [`pbaeyens31+orientacion@gmail.com`](mailto:pbaeyens31+orientacion@gmail.com)
 
   

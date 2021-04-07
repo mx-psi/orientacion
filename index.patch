@@ -1,20 +1,13 @@
 diff --git a/index.html b/index.html
-index 91a3c4b..e91020d 100644
+index ed09c30..b41a65b 100644
 --- a/index.html
 +++ b/index.html
-@@ -24,10 +24,11 @@
+@@ -24,7 +24,7 @@
    <div class="reveal">
      <div class="slides">
 
 -<section id="title-slide">
--  <h1 class="title">Jornada de profesionales</h1>
--  <p class="subtitle">IES Marmaria</p>
--  <p class="author">Pablo Baeyens <span style="text-transform:lowercase">(<a href="mailto:pbaeyens31+orientacion@gmail.com">pbaeyens31@gmail.com</a>)</span></p>
-+
-+<section id="title-slide" class="has-dark-background" data-background-image="img/portada.jpg">
-+  <h1 class="title" style="color: white;">Jornada de profesionales</h1>
-+  <p class="subtitle" style="color: white;">IES Marmaria</p>
-+  <p class="author" style="color: white;">Pablo Baeyens <span style="text-transform:lowercase">(<a href="mailto:pbaeyens31+orientacion@gmail.com">pbaeyens31@gmail.com</a>)</span></p>
- </section>
-
- <section id="section" class="slide level2" data-background-image="img/pencils.jpg">
++<section id="title-slide" data-background-image="img/portada.jpg">
+   <h1 class="title">Jornada de profesionales</h1>
+   <p class="subtitle">IES Marmaria</p>
+   <p class="author">Pablo Baeyens</p>
