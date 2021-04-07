@@ -3,7 +3,7 @@ title: Jornada de profesionales
 subtitle: IES Marmaria
 author: Pablo Baeyens <span style="text-transform:lowercase">(<a href="mailto:pbaeyens31+orientacion@gmail.com">pbaeyens31@gmail.com</a>)</span>
 lang: es
-theme: white
+theme: moon
 ---
 
 ## {data-background-image="img/pencils.jpg"}
@@ -12,63 +12,116 @@ theme: white
 [`mx-psi.github.io/orientacion`](https://mx-psi.github.io/orientacion)
 </div>
 
-## Quién soy?
+:::notes
+- Podéis acceder a una copia de la presentación online en esa URL para verla tranquilamente.
+:::
 
-- Me llamo Pablo Baeyens.
-- Estudié el doble grado en Ingeniería Informática y Matemáticas (DGIIM) en la Universidad de Granada.
-- Trabajo como ingeniero informático en Datadog desarrollando software libre.
-- Podéis contactarme a través de pbaeyens31@gmail.com o en mx-psi.github.io/contact
+## Presentación
 
-## Informática y matemáticas en la UGR
+Soy Pablo Baeyens, estudié Informática y Matemáticas (doble grado) en la UGR.
 
-- El DGIIM te permite estudiar los grados de ingeniería informática y matemáticas simultáneamente y sin repetir asignaturas comunes.
-- El plan de estudios dura 5 años con 12 asignaturas por año (369 ECTS) en comparación con los 4 años con 10 asignaturas por año que tiene un grado (240 ECTS).
-- En informática puedes especializarte en los últimos dos años en función de tus intereses.
+Actualmente trabajo como ingeniero informático en Datadog desarrollando software libre.
 
-# Contenidos de cada grado
+Podéis contactarme a través de [pbaeyens31@gmail.com](mailto:pbaeyens31@gmail.com).
 
-## Informática
+:::notes
+- Estudié el doble grado entre 2014 y 2019.
+- Podéis preguntarme cualquier cosa de la presentación o sobre el doble grado.
+:::
 
-- Cómo funciona la informática: *hardware*, sistemas operativos, aplicaciones, servidores, Internet..
-- Cómo diseñar y programar aplicaciones.
-- Cómo colaborar con otras personas para escribir aplicaciones.
-- Especialidades en IA, bases de datos, *hardware*, Web...
+## Comparativa
+
+
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
+
+:::container
+::::col
+### Doble grado
+
+Plan de 5 años
+
+Dos centros
+
+12 asignaturas/año
+
+369 créditos ECTS*
+::::
+
+::::col
+### Grado simple (UGR)
+
+Plan de 4 años
+
+Un sólo centro
+
+10 asignaturas/año
+
+240 créditos ECTS*
+::::
+:::
+
+\*: *Un crédito ECTS son 25 horas de trabajo.*
+
+# Contenidos de cada grado {data-background-image="img/contenidos.jpg" style="color: black;"}
+
+## Informática 
+
+- Cómo funcionan los ordenadores
+  - *Hardware*
+  - Sistemas Operativos
+  - Algoritmos
+  - Internet
+  - ...
+- Cómo colaborar para crear aplicaciones.
+- Especialidades en IA, BBDDs, servidores, Web...
 
 ## Matemáticas
 
-- Cómo hacer deducciones lógicas para demostrar propiedades.
-- Cómo aplicar estas propiedades para resolver problemas (aplicados o abstractos).
-- Fundamentos de conceptos que se ven con poco detalle en informática y en otras ingenierias y carreras científicas (por qué salen las cuentas).
-- Contenidos muy diferentes a los del instituto.
+- Cómo hacer deducciones lógicas
+- Resolución de problemas abstractos
+  - Geometría y Topología
+  - Cálculo y Análisis
+  - Estadística y probabilidad
+  - Métodos numéricos
+  - ...
+- Por qué 'salen las cuentas'.
+- Muy diferente al instituto.
 
-## Ventajas y desventajas
+# Ventajas y desventajas {data-background-image="img/ventajas.jpg" style="color: black;"}
 
-+ Mucha colaboración entre estudiantes, con apuntes y proyectos comunes.
+## Desventajas
+
+- Exigente y necesita de trabajo autónomo.
+- Matemáticas suele costar un poco al principio.
+- Nota de corte de 12.331 el curso pasado.
+
+## Ventajas
+
 + Combina aspectos teóricos y aplicados.
 + Buenas perspectivas laborales.
 + Conocimiento más profundo de aspectos fundacionales.
 + No hay necesariamente que hacer un máster.
-
-- Algo exigente y necesita de trabajo autónomo.
-- Matemáticas suele ser un poco dura al principio
-- Mucho tiempo dedicado a prácticas de informática.
-- Notas de corte algo alta (12.331 en la UGR el curso pasado).
-- Para informática la Formación Profesional es una alternativa.
++ Colaboración entre estudiantes.
 
 ## Salidas laborales
 
 - Investigación y docencia universitaria.
 - Ciencia de datos y estadística aplicada.
 - Ingeniero informático, de sistemas...
-- Desarrollor web o de aplicaciones.
+- Desarrollo web o de aplicaciones.
 
-## Consejos
+
+# Enlaces útiles
 
 - [Aprende a estudiar mejor](https://mx-psi.github.io/studying).
 - [Guía para primero](https://libreim.github.io/blog/2015/09/10/primero).
-
-## Enlaces útiles
-
 - [`grados.ugr.es`]()
 - [`deiit.ugr.es/BDExamenes/search.html`]()
 - [`github.com/libreim/apuntesDGIIM`]()
